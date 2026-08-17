@@ -6,11 +6,8 @@
 
 $discard
 
-$discard,site=servicenow.com
-$discard,site=youtube.com
-
-$boost=3,site=servicenow.com/community
-$boost=3,site=servicenow.com/docs
-$boost=3,site=youtube.com/@ServiceNowDocs
-$boost=3,site=youtube.com/@ServiceNowCommunity
-$boost=3,site=youtube.com/@ServiceNowDevProgram
+/community/$boost,site=servicenow.com
+/docs/$boost,site=servicenow.com
+/@ServiceNowDocs/$boost,site=youtube.com/@ServiceNowDocs
+/@ServiceNowCommunity/$boost,site=youtube.com/@ServiceNowDocs
+/@ServiceNowDevProgram/$boost,site=youtube.com/@ServiceNowDocs
