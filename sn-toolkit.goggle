@@ -1,0 +1,15 @@
+! name: SN Toolkit
+! description: Search the official ServiceNow documentation and developer forums.
+! public: true
+! author: Joseph Henry Ilagan
+
+$discard
+
+$discard,site=servicenow.com
+$discard,site=youtube.com
+
+$boost=3,site=servicenow.com/community
+$boost=3,site=servicenow.com/docs
+$boost=3,site=youtube.com/@ServiceNowDocs
+$boost=3,site=youtube.com/@ServiceNowCommunity
+$boost=3,site=youtube.com/@ServiceNowDevProgram
