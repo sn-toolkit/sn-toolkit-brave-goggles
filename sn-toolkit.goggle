@@ -1,5 +1,5 @@
 ! name: SN Toolkit
-! description: Search the official ServiceNow documentation and developer forums.
+! description: Search the official ServiceNow documentation and community forums.
 ! public: true
 ! author: Joseph Henry Ilagan
 ! avatar: #032D42
@@ -8,6 +8,3 @@ $discard
 
 /community/$boost,site=servicenow.com
 /docs/$boost,site=servicenow.com
-/@ServiceNowDocs/$boost,site=youtube.com
-/@ServiceNowCommunity/$boost,site=youtube.com
-/@ServiceNowDevProgram/$boost,site=youtube.com
