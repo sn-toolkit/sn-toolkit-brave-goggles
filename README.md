@@ -1,4 +1,3 @@
-
 # SN Toolkit — Brave Goggles
 
 > Prioritize official ServiceNow documentation and community forums, and discard all other results within [Brave Search](https://search.brave.com).
