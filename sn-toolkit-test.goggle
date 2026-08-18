@@ -8,6 +8,4 @@ $discard
 
 /community/$boost,site=servicenow.com
 /docs/$boost,site=servicenow.com
-/@ServiceNowDocs/$boost,site=youtube.com
-/@ServiceNowCommunity/$boost,site=youtube.com
-/@ServiceNowDevProgram/$boost,site=youtube.com
+/r/servicenow/$boost,site=reddit.community
