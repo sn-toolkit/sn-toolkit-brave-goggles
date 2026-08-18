@@ -25,4 +25,4 @@ Contributions are welcome! If you know of high-quality ServiceNow blogs, utility
 
 1. [Start](https://github.com/sn-toolkit/sn-toolkit-brave-goggles/discussions/new/choose) a new discussion.
 2. Select a discussion category.
-3. Fill out the form and submit
+3. Fill out the form and submit.
